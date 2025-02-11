@@ -3,8 +3,7 @@
 
 # CMZ SYNTH ignorable files #
 #############################
-
-Nishiyama2013/
+*.fits
 movies/
 coords.py
 patches.py
