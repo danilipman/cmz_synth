@@ -8,8 +8,9 @@ movies/
 coords.py
 patches.py
 patches_select.py
-
-
+Rings_out.dat
+*.pdf
+*.png
 
 
 # Compiled source #
