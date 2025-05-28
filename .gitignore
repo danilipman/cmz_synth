@@ -9,8 +9,10 @@ coords.py
 patches.py
 patches_select.py
 Rings_out.dat
+Rings_out_params.dat
 *.pdf
 *.png
+3dcmz_sigmas_masked.csv
 
 
 # Compiled source #
